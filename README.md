@@ -61,9 +61,7 @@ If you'd like to contribute to the project, follow these steps:
 
 3. Make your changes and commit them:
 
-        ```bash
         git commit -m "Add new feature"
-        ```
 
 4. Push your changes to your fork:
 
